@@ -1,0 +1,10 @@
+﻿2015/05/17 22:22:52 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\admi\Desktop\べる0406\べる\べる.vcxproj" (Build ターゲット)。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (._べる.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         べる.vcxproj -> C:\Users\admi\Desktop\べる0406\Debug\べる.exe
+     1>プロジェクト "C:\Users\admi\Desktop\べる0406\べる\べる.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:14.74
